@@ -1,0 +1,9 @@
+v2.
+{<<"/home/isamar/jostest/time-tracker/time_tracker_backend/_build/test/lib/mime/ebin/Elixir.MIME.beam">>,
+ 'Elixir.MIME',module,<<"lib/mime.ex">>,
+ [erlang,'Elixir.String.Chars','Elixir.List','Elixir.Module','Elixir.Enum',
+  'Elixir.Kernel','Elixir.Path','Elixir.String','Elixir.Kernel.Typespec',
+  'Elixir.File','Elixir.Application'],
+ [],
+ [<<"lib/mime.types">>],
+ nil}.

@@ -1,0 +1,7 @@
+v2.
+{<<"/home/isamar/jostest/time-tracker/time_tracker_backend/_build/dev/lib/cors_plug/ebin/Elixir.CORSPlug.beam">>,
+ 'Elixir.CORSPlug',module,<<"lib/cors_plug.ex">>,
+ ['Elixir.Plug.Conn','Elixir.Kernel'],
+ ['Elixir.Map',erlang,'Elixir.String.Chars','Elixir.List','Elixir.Access',
+  'Elixir.Enum','Elixir.Keyword'],
+ [],nil}.

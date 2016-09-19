@@ -1,0 +1,9 @@
+v2.
+{<<"/home/isamar/jostest/time-tracker/time_tracker_backend/_build/dev/lib/connection/ebin/Elixir.Connection.beam">>,
+ 'Elixir.Connection',module,<<"lib/connection.ex">>,
+ ['Elixir.Kernel.Utils',erlang,'Elixir.String.Chars','Elixir.List',
+  'Elixir.Module','Elixir.Kernel','Elixir.Keyword','Elixir.Protocol',
+  'Elixir.ArgumentError','Elixir.Kernel.Typespec','Elixir.GenServer'],
+ [code,'Elixir.Process',gen_server,global,gen,proc_lib,error_logger,
+  'Elixir.System'],
+ [],nil}.

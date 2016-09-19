@@ -1,0 +1,24 @@
+v2.
+{<<"/home/isamar/jostest/time-tracker/time_tracker_backend/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReload.Channel.beam">>,
+ 'Elixir.Phoenix.LiveReload.Channel',module,
+ <<"lib/phoenix_live_reload/channel.ex">>,
+ ['Elixir.Logger','Elixir.Module','Elixir.Kernel','Elixir.Phoenix.Socket',
+  'Elixir.Phoenix.Channel'],
+ [erlang,'Elixir.String.Chars','Elixir.Access',fs,'Elixir.Enum','Elixir.Path',
+  'Elixir.String','Elixir.Application'],
+ [],nil}.
+{<<"/home/isamar/jostest/time-tracker/time_tracker_backend/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.Socket.beam">>,
+ 'Elixir.Phoenix.LiveReloader.Socket',module,
+ <<"lib/phoenix_live_reload/socket.ex">>,
+ ['Elixir.Module','Elixir.Kernel','Elixir.Phoenix.Transports.WebSocket',
+  'Elixir.Phoenix.Socket','Elixir.Phoenix',
+  'Elixir.Phoenix.Transports.LongPoll'],
+ [],[],nil}.
+{<<"/home/isamar/jostest/time-tracker/time_tracker_backend/_build/dev/lib/phoenix_live_reload/ebin/Elixir.Phoenix.LiveReloader.beam">>,
+ 'Elixir.Phoenix.LiveReloader',module,
+ <<"lib/phoenix_live_reload/live_reloader.ex">>,
+ ['Elixir.Module','Elixir.Plug.Conn','Elixir.Kernel','Elixir.File',
+  'Elixir.Plug','Elixir.Application'],
+ ['Elixir.Map',erlang,'Elixir.String.Chars','Elixir.Access','Elixir.Enum',
+  'Elixir.String'],
+ [],nil}.

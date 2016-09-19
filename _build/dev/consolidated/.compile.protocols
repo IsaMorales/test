@@ -1,0 +1,3 @@
+v1.
+{'Elixir.Poison.Encoder.TimeTrackerBackend.User',
+    {impl,'Elixir.Poison.Encoder'}}.
